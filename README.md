@@ -2,7 +2,7 @@
 
 This repository is for **PointLIE** introduced in the following paper
 
-[Weibing Zhao#] (https://github.com/zwb0), [Xu Yan#](https://github.com/yanx27), [Jiantao Gao](https://github.com/Gao-JT), Ruimao Zhang, Jiayan Zhang, [Zhen Li*](https://mypage.cuhk.edu.cn/academics/lizhen/), Song Wu, Shuguang Cui, "PointLIE: Locally Invertible Embedding for Point Cloud Sampling and Recovery", IJCAI 2021 [[arxiv]](https://arxiv.org/pdf/2104.14769.pdf).
+[Weibing Zhao#](https://github.com/zwb0), [Xu Yan#](https://github.com/yanx27), [Jiantao Gao](https://github.com/Gao-JT), Ruimao Zhang, Jiayan Zhang, [Zhen Li*](https://mypage.cuhk.edu.cn/academics/lizhen/), Song Wu, Shuguang Cui, "PointLIE: Locally Invertible Embedding for Point Cloud Sampling and Recovery", IJCAI 2021 [[arxiv]](https://arxiv.org/pdf/2104.14769.pdf).
  
 ![](figures/figure3.png)
 
